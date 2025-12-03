@@ -9,6 +9,8 @@ your solution to this task: In order to test the system, we feed it this sentenc
 'CONDITION -1 event.v.01 Participant +1 order.n.01 CONSEQUENCE -1 entity.n.01 test.v.01 Agent -1 Theme +1 system.n.01 person.n.01 EQU speaker feed.v.01 Participant -3 Agent -1 Time +1 Recipient +2 Time +3 time.n.08 EQU now entity.n.01 sentence.n.01'
 ```
 
+i also ran it back from drs to english (see function in next task) and got 'In order to test this system, I feed it a sentence.' which is perfect result except for 1st plural is changed to plural
+
 ## Task 2
 
 > Paste your code for the function into your solution for this task

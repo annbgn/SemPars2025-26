@@ -79,7 +79,7 @@ It also looks like German version has more drs relations, I guess it's because o
 
 > Interpret the results, and comment on their quality. 
 
-in a) there shall be no negation, but drs pictures us a double negation. I don't understand to what first "-1" belongs to, because there is no previous node. 
+in a) there shall be no negation, but drs pictures us a double negation. I don't understand to what first "-1" belongs to, because there is no previous node. the only explanation i came up with is that -1 means not an object but a box, the same very box that the existence of negation operator is introducing 
 
 in b) double negation makes sense, because it literally means "there is **no** time when he does **not** listen to serious music"
 
